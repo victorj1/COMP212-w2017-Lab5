@@ -1,0 +1,14 @@
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\StackInheritenceLibrary\bin\Debug\StackInheritenceLibrary.dll
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\StackInheritenceLibrary\bin\Debug\StackInheritenceLibrary.pdb
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\StackInheritenceLibrary\bin\Debug\LinkedListLibrary.dll
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\StackInheritenceLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\StackInheritenceLibrary\obj\Debug\StackInheritenceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\StackInheritenceLibrary\obj\Debug\StackInheritenceLibrary.dll
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\StackInheritenceLibrary\obj\Debug\StackInheritenceLibrary.pdb
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab05\StackInheritenceLibrary\bin\Debug\StackInheritenceLibrary.dll
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab05\StackInheritenceLibrary\bin\Debug\StackInheritenceLibrary.pdb
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab05\StackInheritenceLibrary\bin\Debug\LinkedListLibrary.dll
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab05\StackInheritenceLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab05\StackInheritenceLibrary\obj\Debug\StackInheritenceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab05\StackInheritenceLibrary\obj\Debug\StackInheritenceLibrary.dll
+C:\Users\admin\Desktop\Victor-Jdanovitch_Lab05\StackInheritenceLibrary\obj\Debug\StackInheritenceLibrary.pdb

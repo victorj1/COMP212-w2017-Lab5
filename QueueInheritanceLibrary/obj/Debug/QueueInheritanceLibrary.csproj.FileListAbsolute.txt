@@ -1,0 +1,7 @@
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\QueueInheritanceLibrary\bin\Debug\QueueInheritanceLibrary.dll
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\QueueInheritanceLibrary\bin\Debug\QueueInheritanceLibrary.pdb
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\QueueInheritanceLibrary\bin\Debug\LinkedListLibrary.dll
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\QueueInheritanceLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.dll
+C:\Users\Reza\Desktop\Programming3\Assignment5\FINAL SOLUTION\Reza-Kajbaf_Lab05\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.pdb
